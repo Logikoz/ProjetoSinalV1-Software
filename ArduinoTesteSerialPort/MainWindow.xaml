@@ -1,0 +1,111 @@
+﻿<Window
+    x:Class="ArduinoTesteSerialPort.MainWindow"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:local="clr-namespace:ArduinoTesteSerialPort"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    Title="MainWindow"
+    Width="500"
+    Height="340"
+    AllowsTransparency="True"
+    Background="{x:Null}"
+    MouseDown="Window_MouseDown"
+    ResizeMode="NoResize"
+    WindowStartupLocation="CenterScreen"
+    WindowStyle="None"
+    mc:Ignorable="d">
+    <Border Background="White" CornerRadius="30">
+        <StackPanel Orientation="Vertical">
+            <StackPanel
+                Margin="0,0,20,0"
+                HorizontalAlignment="Right"
+                Orientation="Horizontal">
+                <Button
+                    Width="30"
+                    Background="{x:Null}"
+                    BorderBrush="{x:Null}"
+                    Click="Button_Click_2"
+                    Content="_"
+                    FontSize="20" />
+                <Button
+                    Width="30"
+                    Background="{x:Null}"
+                    BorderBrush="{x:Null}"
+                    Click="Button_Click_3"
+                    Content="X"
+                    FontSize="20" />
+            </StackPanel>
+            <StackPanel
+                Margin="0,5,0,0"
+                HorizontalAlignment="Center"
+                Orientation="Vertical">
+                <StackPanel Orientation="Vertical">
+                    <StackPanel x:Name="Informacoes_sp" Orientation="Horizontal">
+                        <TextBlock Text="Selecione a porta: " />
+                        <TextBox x:Name="Porta_txt" Width="50" />
+                        <TextBlock Margin="10,0,0,0" Text="Taxa de Transm: " />
+                        <TextBox x:Name="Begin_txt" Width="50" />
+                        <TextBlock Margin="10,0,0,0" Text="Velocidade: " />
+                        <TextBox x:Name="TimerSpeed_txt" Width="50" />
+                    </StackPanel>
+                    <StackPanel HorizontalAlignment="Center" Orientation="Horizontal">
+                        <Button
+                            x:Name="Conectar_bt"
+                            Margin="0,10,0,20"
+                            HorizontalAlignment="Center"
+                            Click="Button_Click"
+                            Content="Conectar"
+                            IsEnabled="True" />
+                        <Button
+                            x:Name="Desconectar_bt"
+                            Margin="0,10,0,20"
+                            HorizontalAlignment="Center"
+                            Click="Button_Click_1"
+                            Content="Desconectar"
+                            IsEnabled="False" />
+                    </StackPanel>
+                </StackPanel>
+                <Grid
+                    x:Name="Elementos_gd"
+                    HorizontalAlignment="Center"
+                    VerticalAlignment="Top"
+                    IsEnabled="False">
+                    <StackPanel Orientation="Vertical">
+                        <StackPanel HorizontalAlignment="Center" Orientation="Horizontal">
+                            <Button
+                                x:Name="AcenderLed_bt"
+                                VerticalAlignment="Top"
+                                Click="AcenderLed_bt_Click"
+                                Content="Liberado" />
+                            <Button
+                                x:Name="AtencaoLed_bt"
+                                VerticalAlignment="Top"
+                                Click="AtencaoLed_bt_Click"
+                                Content="Atençao" />
+                            <Button
+                                x:Name="ApagarLed_bt"
+                                VerticalAlignment="Top"
+                                Click="ApagarLed_bt_Click"
+                                Content="Parar" />
+                            <ToggleButton
+                                x:Name="Apitar_bt"
+                                VerticalAlignment="Top"
+                                Checked="Apitar_bt_Checked"
+                                Content="Apitar"
+                                Unchecked="Apitar_bt_Unchecked" />
+                        </StackPanel>
+                        <RichTextBox
+                            x:Name="serialPort_rtb"
+                            Width="250"
+                            Height="200"
+                            HorizontalScrollBarVisibility="Disabled"
+                            IsReadOnly="True"
+                            ScrollViewer.CanContentScroll="True"
+                            VerticalScrollBarVisibility="Visible" />
+                    </StackPanel>
+                </Grid>
+            </StackPanel>
+        </StackPanel>
+    </Border>
+</Window>

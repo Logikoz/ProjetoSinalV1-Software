@@ -1,0 +1,45 @@
+C:\Users\Logikoz\source\repos\ArduinoTesteSerialPort\ArduinoTesteSerialPort\bin\Debug\ArduinoTesteSerialPort.exe.config
+C:\Users\Logikoz\source\repos\ArduinoTesteSerialPort\ArduinoTesteSerialPort\bin\Debug\ArduinoTesteSerialPort.exe
+C:\Users\Logikoz\source\repos\ArduinoTesteSerialPort\ArduinoTesteSerialPort\bin\Debug\ArduinoTesteSerialPort.pdb
+C:\Users\Logikoz\source\repos\ArduinoTesteSerialPort\ArduinoTesteSerialPort\obj\Debug\ArduinoTesteSerialPort.csprojAssemblyReference.cache
+C:\Users\Logikoz\source\repos\ArduinoTesteSerialPort\ArduinoTesteSerialPort\obj\Debug\MainWindow.g.cs
+C:\Users\Logikoz\source\repos\ArduinoTesteSerialPort\ArduinoTesteSerialPort\obj\Debug\App.g.cs
+C:\Users\Logikoz\source\repos\ArduinoTesteSerialPort\ArduinoTesteSerialPort\obj\Debug\ArduinoTesteSerialPort_MarkupCompile.cache
+C:\Users\Logikoz\source\repos\ArduinoTesteSerialPort\ArduinoTesteSerialPort\obj\Debug\ArduinoTesteSerialPort_MarkupCompile.lref
+C:\Users\Logikoz\source\repos\ArduinoTesteSerialPort\ArduinoTesteSerialPort\obj\Debug\MainWindow.baml
+C:\Users\Logikoz\source\repos\ArduinoTesteSerialPort\ArduinoTesteSerialPort\obj\Debug\ArduinoTesteSerialPort.g.resources
+C:\Users\Logikoz\source\repos\ArduinoTesteSerialPort\ArduinoTesteSerialPort\obj\Debug\ArduinoTesteSerialPort.Properties.Resources.resources
+C:\Users\Logikoz\source\repos\ArduinoTesteSerialPort\ArduinoTesteSerialPort\obj\Debug\ArduinoTesteSerialPort.csproj.GenerateResource.cache
+C:\Users\Logikoz\source\repos\ArduinoTesteSerialPort\ArduinoTesteSerialPort\obj\Debug\ArduinoTesteSerialPort.csproj.CoreCompileInputs.cache
+C:\Users\Logikoz\source\repos\ArduinoTesteSerialPort\ArduinoTesteSerialPort\obj\Debug\ArduinoTesteSerialPort.exe
+C:\Users\Logikoz\source\repos\ArduinoTesteSerialPort\ArduinoTesteSerialPort\obj\Debug\ArduinoTesteSerialPort.pdb
+C:\DiscoLocal\Programing\C\ARDUINO\Programas C#\ArduinoTesteSerialPort\ArduinoTesteSerialPort\bin\Debug\ArduinoTesteSerialPort.exe.config
+C:\DiscoLocal\Programing\C\ARDUINO\Programas C#\ArduinoTesteSerialPort\ArduinoTesteSerialPort\bin\Debug\ArduinoTesteSerialPort.exe
+C:\DiscoLocal\Programing\C\ARDUINO\Programas C#\ArduinoTesteSerialPort\ArduinoTesteSerialPort\bin\Debug\ArduinoTesteSerialPort.pdb
+C:\DiscoLocal\Programing\C\ARDUINO\Programas C#\ArduinoTesteSerialPort\ArduinoTesteSerialPort\obj\Debug\ArduinoTesteSerialPort.csprojAssemblyReference.cache
+C:\DiscoLocal\Programing\C\ARDUINO\Programas C#\ArduinoTesteSerialPort\ArduinoTesteSerialPort\obj\Debug\MainWindow.g.cs
+C:\DiscoLocal\Programing\C\ARDUINO\Programas C#\ArduinoTesteSerialPort\ArduinoTesteSerialPort\obj\Debug\App.g.cs
+C:\DiscoLocal\Programing\C\ARDUINO\Programas C#\ArduinoTesteSerialPort\ArduinoTesteSerialPort\obj\Debug\ArduinoTesteSerialPort_MarkupCompile.cache
+C:\DiscoLocal\Programing\C\ARDUINO\Programas C#\ArduinoTesteSerialPort\ArduinoTesteSerialPort\obj\Debug\ArduinoTesteSerialPort_MarkupCompile.lref
+C:\DiscoLocal\Programing\C\ARDUINO\Programas C#\ArduinoTesteSerialPort\ArduinoTesteSerialPort\obj\Debug\MainWindow.baml
+C:\DiscoLocal\Programing\C\ARDUINO\Programas C#\ArduinoTesteSerialPort\ArduinoTesteSerialPort\obj\Debug\ArduinoTesteSerialPort.g.resources
+C:\DiscoLocal\Programing\C\ARDUINO\Programas C#\ArduinoTesteSerialPort\ArduinoTesteSerialPort\obj\Debug\ArduinoTesteSerialPort.Properties.Resources.resources
+C:\DiscoLocal\Programing\C\ARDUINO\Programas C#\ArduinoTesteSerialPort\ArduinoTesteSerialPort\obj\Debug\ArduinoTesteSerialPort.csproj.GenerateResource.cache
+C:\DiscoLocal\Programing\C\ARDUINO\Programas C#\ArduinoTesteSerialPort\ArduinoTesteSerialPort\obj\Debug\ArduinoTesteSerialPort.csproj.CoreCompileInputs.cache
+C:\DiscoLocal\Programing\C\ARDUINO\Programas C#\ArduinoTesteSerialPort\ArduinoTesteSerialPort\obj\Debug\ArduinoTesteSerialPort.exe
+C:\DiscoLocal\Programing\C\ARDUINO\Programas C#\ArduinoTesteSerialPort\ArduinoTesteSerialPort\obj\Debug\ArduinoTesteSerialPort.pdb
+C:\DiscoLocal\Programing\ARDUINO\Programas C#\ArduinoTesteSerialPort\ArduinoTesteSerialPort\bin\Debug\ArduinoTesteSerialPort.exe.config
+C:\DiscoLocal\Programing\ARDUINO\Programas C#\ArduinoTesteSerialPort\ArduinoTesteSerialPort\bin\Debug\ArduinoTesteSerialPort.exe
+C:\DiscoLocal\Programing\ARDUINO\Programas C#\ArduinoTesteSerialPort\ArduinoTesteSerialPort\bin\Debug\ArduinoTesteSerialPort.pdb
+C:\DiscoLocal\Programing\ARDUINO\Programas C#\ArduinoTesteSerialPort\ArduinoTesteSerialPort\obj\Debug\ArduinoTesteSerialPort.csprojAssemblyReference.cache
+C:\DiscoLocal\Programing\ARDUINO\Programas C#\ArduinoTesteSerialPort\ArduinoTesteSerialPort\obj\Debug\MainWindow.g.cs
+C:\DiscoLocal\Programing\ARDUINO\Programas C#\ArduinoTesteSerialPort\ArduinoTesteSerialPort\obj\Debug\App.g.cs
+C:\DiscoLocal\Programing\ARDUINO\Programas C#\ArduinoTesteSerialPort\ArduinoTesteSerialPort\obj\Debug\ArduinoTesteSerialPort_MarkupCompile.cache
+C:\DiscoLocal\Programing\ARDUINO\Programas C#\ArduinoTesteSerialPort\ArduinoTesteSerialPort\obj\Debug\ArduinoTesteSerialPort_MarkupCompile.lref
+C:\DiscoLocal\Programing\ARDUINO\Programas C#\ArduinoTesteSerialPort\ArduinoTesteSerialPort\obj\Debug\MainWindow.baml
+C:\DiscoLocal\Programing\ARDUINO\Programas C#\ArduinoTesteSerialPort\ArduinoTesteSerialPort\obj\Debug\ArduinoTesteSerialPort.g.resources
+C:\DiscoLocal\Programing\ARDUINO\Programas C#\ArduinoTesteSerialPort\ArduinoTesteSerialPort\obj\Debug\ArduinoTesteSerialPort.Properties.Resources.resources
+C:\DiscoLocal\Programing\ARDUINO\Programas C#\ArduinoTesteSerialPort\ArduinoTesteSerialPort\obj\Debug\ArduinoTesteSerialPort.csproj.GenerateResource.cache
+C:\DiscoLocal\Programing\ARDUINO\Programas C#\ArduinoTesteSerialPort\ArduinoTesteSerialPort\obj\Debug\ArduinoTesteSerialPort.csproj.CoreCompileInputs.cache
+C:\DiscoLocal\Programing\ARDUINO\Programas C#\ArduinoTesteSerialPort\ArduinoTesteSerialPort\obj\Debug\ArduinoTesteSerialPort.exe
+C:\DiscoLocal\Programing\ARDUINO\Programas C#\ArduinoTesteSerialPort\ArduinoTesteSerialPort\obj\Debug\ArduinoTesteSerialPort.pdb
